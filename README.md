@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### ⚡ I’m currently learning py, js, ts, java & react.      ![image](https://www.pngkey.com/maxpic/u2w7e6i1a9o0w7e6/)
+### ⚡ I’m currently learning py, js, ts, java & react.      ![Bit](https://github.com/comoncada/comoncada/blob/main/btc-bitcoin.gif)
 
 
 
