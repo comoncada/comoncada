@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### ⚡ I’m currently learning py, js, ts, java & react.     <a href="url"><img src="https://c.tenor.com/JYQs3LWRKgcAAAAC/btc-bitcoin.gif" align="right" height="60" width="80" ></a>
+### ⚡ I’m currently learning py, js, ts, java & react.     <a href="url"><img src="https://c.tenor.com/JYQs3LWRKgcAAAAC/btc-bitcoin.gif" align="top" height="60" width="80" ></a>
 
 
 
