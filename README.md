@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### ⚡ I’m currently learning py, js, ts, java & react.      ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatzi.com%2Fclases%2F2042-prework-windows%2F32929-instalando-git%2F&psig=AOvVaw0lmSbTC1jXwMi8pMIldNAF&ust=1632809016275000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCtxd69nvMCFQAAAAAdAAAAABAN)
+### ⚡ I’m currently learning py, js, ts, java & react.      ![image](https://www.pngkey.com/maxpic/u2w7e6i1a9o0w7e6/)
 
 
 
