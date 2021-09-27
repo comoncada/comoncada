@@ -2,7 +2,7 @@
 
 ### ⚡ I’m currently learning py, js, ts, java & react.      
 
-![Bit](https://github.com/comoncada/comoncada/blob/main/btc-bitcoin.gif =250px)
+![Bit](https://github.com/comoncada/comoncada/blob/main/btc-bitcoin.gif =250x250)
 
 
 
