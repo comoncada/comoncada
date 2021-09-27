@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# ⚡ I’m currently learning Py, js, ts, java & react 
+
 <!--
 **comoncada/comoncada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
