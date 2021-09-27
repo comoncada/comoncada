@@ -1,6 +1,8 @@
 # Hi there 👋
 
-### ⚡ I’m currently learning py, js, ts, java & react.      ![Bit](https://github.com/comoncada/comoncada/blob/main/btc-bitcoin.gif)
+### ⚡ I’m currently learning py, js, ts, java & react.      
+
+![Bit](https://github.com/comoncada/comoncada/blob/main/btc-bitcoin.gif)
 
 
 
